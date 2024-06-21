@@ -39,4 +39,21 @@ dan mobilenetV3 dipilih karena pre - trained model ini ringan dan memiliki
 akurasi yang lumayan tinggi.
 
 
+## Prototype
+![image](https://github.com/Hafizpambudi/Fish-disease-detection-mobilenetV3/assets/154437965/f3ff44a6-23b9-41d9-be2e-e02a2ae76974)
+
+
+## Integration 
+\Model ini akan diintegrasikan ke dalam platform mobile. Sehingga untuk mempermudah integrasi, Model yang telah dikembangan disimpan dan dibuatkan menjadi API. API akan dibuangkus menjadi container menggunakan docker dan deploy secara public menggunakan service dari ibm code engine.
+
+## Deployment 
+Setelah proses developing dan training model selesai dilakukan, model deteksi penyakit ikan akan dibuatkan menjadi API. Tujuan dibuatkannya api agar pihak developer mobile dimana fitur ini akan diimplementasikan, akan merasa dimudahkan. Pembuatan API menggunakan framework FAST Api. Ketika API selesai di develop, dilakukan kontainerisasi menggunakan docker dan dilakukan deployment ke dalam servide IBM code engine. Deployment ini akan menghasilkan public endpoint url yang siap di konsumsi oleh pihak developer mobile. 
+
+## Result 
+![WhatsApp Image 2024-06-21 at 14 51 46](https://github.com/Hafizpambudi/Fish-disease-detection-mobilenetV3/assets/154437965/508d0e20-0c14-4356-819d-cbf1065c0127)
+Model ini dapat mengenali penyakit pada ikan dan memberikan solusi pengobatan praktisnya 
+
+## Conclusion 
+model deteksi penyakit ikan berjalan sesuai target awal. 
+
 
