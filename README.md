@@ -1,6 +1,10 @@
 
 # Fresh Water Fish Disease Detection
 
+![image](https://github.com/Hafizpambudi/Fish-disease-detection-mobilenetV3/assets/154437965/01cfab5e-5937-4b8e-b441-0a388a1e614d)
+![image](https://github.com/Hafizpambudi/Fish-disease-detection-mobilenetV3/assets/154437965/34d1f14f-2e10-4c4b-9b75-2e2546477b37)
+
+
 ## Teams 
 - Hafiz Pambudi - ML engineer 
 - Naufal Kanz - Design Researcher 
@@ -51,9 +55,9 @@ Setelah proses developing dan training model selesai dilakukan, model deteksi pe
 
 ## Result 
 ![WhatsApp Image 2024-06-21 at 14 51 46](https://github.com/Hafizpambudi/Fish-disease-detection-mobilenetV3/assets/154437965/508d0e20-0c14-4356-819d-cbf1065c0127)
-Model ini dapat mengenali penyakit pada ikan dan memberikan solusi pengobatan praktisnya 
 
 ## Conclusion 
-model deteksi penyakit ikan berjalan sesuai target awal. 
+model deteksi penyakit ikan berjalan sesuai target awal. Model ini dapat mengenali penyakit pada ikan dan memberikan solusi pengobatan praktisnya 
+
 
 
