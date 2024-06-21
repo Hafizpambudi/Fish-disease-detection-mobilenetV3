@@ -1,5 +1,5 @@
 
-#Fresh Water Fish Disease Detection
+# Fresh Water Fish Disease Detection
 
 ## Teams 
 - Hafiz Pambudi - ML engineer 
